@@ -1,0 +1,5 @@
+1. 侧边栏：src\layout\dashboard\DashboardLayout.vue
+    <sidebar-link to="/dashboard" name="Dashboard" icon="ti-panel"/>
+    to: 正页的路由
+    name: 文字
+    icon: 标签（可以到icon栏去寻找合适的） 
